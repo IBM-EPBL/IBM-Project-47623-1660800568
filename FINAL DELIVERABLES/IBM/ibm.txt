@@ -1,0 +1,146 @@
+Skip to content
+
+
+
+
+Search or jump to…
+
+
+
+
+     In this repository All GitHub ↵
+     Jump to ↵
+
+     No suggested jump to results
+
+
+
+
+     In this repository All GitHub ↵
+     Jump to ↵
+
+
+
+     In this user All GitHub ↵
+     Jump to ↵
+
+
+
+     In this repository All GitHub ↵
+     Jump to ↵
+
+
+
+Dashboard Pull requests Issues Codespaces
+Marketplace
+Explore Sponsors Settings        RUPESHRUPESHYT
+    Sign out
+
+
+
+
+  IBM-EPBL / IBM-Project-30037-1660138781 Public
+
+     Watch 1
+  Fork 5
+
+
+    Starred 10
+
+
+    Star 10
+
+
+
+        Code
+        Issues
+        Pull requests
+        Actions
+        Projects
+        Security
+        Insights
+
+
+
+Open in github.dev Open in a new github.dev tab
+    main
+
+
+Name already in use
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may
+cause unexpected behavior. Are you sure you want to create this branch?
+ Cancel     Create
+IBM-Project-30037-1660138781/Final Deliverables/IBM/
+Go to file
+  Add file
+
+IBM-Project-30037-1660138781/Final Deliverables/IBM/
+
+Latest commit
+
+muthubharathi27 Add files via upload
+ …
+ca80e2f Nov 17, 2022
+Add files via upload
+ca80e2f
+
+
+Git stats
+          History
+
+Files
+Permalink
+   Failed to load latest commit information.
+Type
+Name
+Latest commit message
+Commit time
+..
+
+Food Demand Forecasting_test_result.json
+Add files via upload
+Nov 17, 2022
+
+Food Demand Prediction IBM deployment Notebook.ipynb
+Add files via upload
+Nov 17, 2022
+
+IBM deployment.png
+Add files via upload
+Nov 17, 2022
+
+IBM.txt
+Add files via upload
+Nov 17, 2022
+
+ibm.png
+Add files via upload
+Nov 17, 2022
+
+ibm_app.py
+Add files via upload
+Nov 17, 2022
+
+readme
+Create readme
+Nov 17, 2022
+
+readme
+
+Footer
+  © 2022 GitHub, Inc.
+
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
